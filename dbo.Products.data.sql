@@ -1,17 +1,137 @@
-﻿INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (101, 1, null, 'Xbox Series X', 'XboxSeriesXLogo', 500, 599.99, 5, 50, 'The next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (102, 1, null, 'Xbox Series S', 'XboxSeriesSLogo', 460, 379.99, 20, 15, 'Experience next generation gaming at an afforable price on the Xbox Series S');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (103, 1, null, 'Halo Infinite', 'HaloInfiniteLogo', 60, 60, 50, 150, 'Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Windows, Xbox One, and Xbox Series X and Series S. The sixth main entry of the Halo series, and the sixteenth Halo game overall, it picks up the story of the Master Chief, following Guardians');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (104, 1, null, 'Forza Horizon 5', 'ForzaHorizon5Logo', 60, 60, 50, 100, 'Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (105, 1, null, 'Fable', 'FableLogo', 60, 60, 50, 80, 'Fable returns in the reboot of the classic Xbox franchise coming exclusively to Xbox and PC');
-
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (201, 2, null, 'PS5', 'PS5Logo', 450, 629.99, 3, 20, 'The next generation of Sony PlayStatio is here on the PS5');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (202, 2, null, 'PS5 Digital', 'PS5DigitalLogo', 450, 499.99, 10, 22, 'Play next gen PS5 games at a lower cost with the digital only PS5 console');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (203, 2, null, 'God of War Ragnarok', 'GodOfWarRagnarokLogo', 70, 70, 50, 100, 'The untitled God of War sequel is an action-adventure game currently in development by Santa Monica Studio and will be published by Sony Interactive Entertainment. It is scheduled to be released in 2022 for the PlayStation 4 and PlayStation 5');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (204, 2, null, 'Horizon Forbidden West', 'HorizonForbiddenWestLogo', 70, 70, 40, 80, 'Horizon Forbidden West is an upcoming action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It is set to be released in 2021 for the PlayStation 4 and PlayStation 5. A sequel to Horizon Zero Dawn, it features an open world in a post-apocalyptic western United States');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (205, 2, null, 'Ratchet & Clank: Rift Apart', 'RatchetandClankRiftApartLogo', 70, 70, 20, 40, 'Ratchet & Clank: Rift Apart is a 2021 third-person shooter platform game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 5. It is the sixteenth installment in the Ratchet & Clank series. The game takes place following the events of Ratchet & Clank: Into the Nexus.');
-
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (301, 3, null, 'Nintendo Switch', 'NintendoSwitchLogo', 400, 399.99, 20, 60, 'The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as "a home console that you can take with you on the go"');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (302, 3, null, 'Nintendo Switch Lite', 'NintendoSwitchLiteLogo', 280, 259.99, 30, 15, 'The Nintendo Switch Lite is designed specifically for handheld play—so you can jump into your favorite games wherever you happen to be.');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (303, 3, null, 'Zelda Breath of the Wild 2', 'ZeldaBreathoftheWild2Logo', 60, 60, 50, 100, 'An untitled sequel to the 2017 action-adventure game The Legend of Zelda: Breath of the Wild is in development by Nintendo. The sequel is part of The Legend of Zelda series and is currently set to be released in 2022 for the Nintendo Switch');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (304, 3, null, 'Pokemon Legends: Arceus', 'PokemonLegendsArceusLogo', 60, 60, 40, 85, 'Pokémon Legends: Arceus is an upcoming 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch');
-INSERT INTO [dbo].[Products] (Id, BrandId, Timer, ProductName, GraphicName, CostPrice, MSRP, QtyOnHand, QtyOnBackOrder, Description) VALUES (305, 3, null, 'Super Mario 3D All-Stars', 'SuperMario3DAllStarsLogo', 60, 60, 3, 0, 'Super Mario 3D All-Stars is a 2020 compilation of platform games for the Nintendo Switch. It commemorates the 35th anniversary of Nintendos Super Mario franchise, with high-definition ports of Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy');
+[
+    {
+       "PRNM":"Xbox Series X",
+       "GCNM":"XboxSeriesXLogo",
+       "COST":"500.00",
+       "MSRP":"599.99",
+       "QTYH":"5",
+       "QTYB":"50",
+       "DESC":"The next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X"
+    },
+    {
+       "PRNM":"Xbox Series S",
+       "GCNM":"XboxSeriesSLogo",
+       "COST":"460.00",
+       "MSRP":"379.99",
+       "QTYH":"20",
+       "QTYB":"15",
+       "DESC":"Experience next generation gaming at an afforable price on the Xbox Series S"
+    },
+ {
+       "PRNM":"Halo Infinite",
+       "GCNM":"HaloInfiniteLogo",
+       "COST":"60.00",
+       "MSRP":"60.00",
+       "QTYH":"50",
+       "QTYB":"150",
+       "DESC":"Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Windows, Xbox One, and Xbox Series X and Series S. The sixth main entry of the Halo series, and the sixteenth Halo game overall, it picks up the story of the Master Chief, following Guardians"
+    },
+ {
+       "PRNM":"Forza Horizon 5",
+       "GCNM":"ForzaHorizon5Logo",
+       "COST":"60.00",
+       "MSRP":"60.00",
+       "QTYH":"50",
+       "QTYB":"100",
+       "DESC":"Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico"
+    },
+ {
+       "PRNM":"Fable",
+       "GCNM":"FableLogo",
+       "COST":"60.00",
+       "MSRP":"60.00",
+       "QTYH":"50",
+       "QTYB":"80",
+       "DESC":"Fable returns in the reboot of the classic Xbox franchise coming exclusively to Xbox and PC"
+    },
+ {
+       "PRNM":"PS5",
+       "GCNM":"PS5Logo",
+       "COST":"450.00",
+       "MSRP":"629.99",
+       "QTYH":"3",
+       "QTYB":"20",
+       "DESC":"The next generation of Sony PlayStatio is here on the PS5"
+    },
+ {
+       "PRNM":"PS5 Digital",
+       "GCNM":"PS5DigitalLogo",
+       "COST":"450.00",
+       "MSRP":"499.99",
+       "QTYH":"10",
+       "QTYB":"22",
+       "DESC":"Play next gen PS5 games at a lower cost with the digital only PS5 console"
+    },
+ {
+       "PRNM":"God of War Ragnarok",
+       "GCNM":"GodOfWarRagnarokLogo",
+       "COST":"70.00",
+       "MSRP":"70.00",
+       "QTYH":"50",
+       "QTYB":"100",
+       "DESC":"The untitled God of War sequel is an action-adventure game currently in development by Santa Monica Studio and will be published by Sony Interactive Entertainment. It is scheduled to be released in 2022 for the PlayStation 4 and PlayStation 5"
+    },
+ {
+       "PRNM":"Horizon Forbidden West",
+       "GCNM":"HorizonForbiddenWestLogo",
+       "COST":"70.00",
+       "MSRP":"70.00",
+       "QTYH":"40",
+       "QTYB":"80",
+       "DESC":"Horizon Forbidden West is an upcoming action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It is set to be released in 2021 for the PlayStation 4 and PlayStation 5. A sequel to Horizon Zero Dawn, it features an open world in a post-apocalyptic western United States"
+    },
+ {
+       "PRNM":"Ratchet & Clank: Rift Apart",
+       "GCNM":"RatchetandClankRiftApartLogo",
+       "COST":"70.00",
+       "MSRP":"70.00",
+       "QTYH":"20",
+       "QTYB":"40",
+       "DESC":"Ratchet & Clank: Rift Apart is a 2021 third-person shooter platform game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 5. It is the sixteenth installment in the Ratchet & Clank series. The game takes place following the events of Ratchet & Clank: Into the Nexus."
+    },
+ {
+       "PRNM":"Nintendo Switch",
+       "GCNM":"NintendoSwitchLogo",
+       "COST":"400.00",
+       "MSRP":"399.99",
+       "QTYH":"20",
+       "QTYB":"60",
+       "DESC":"The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as 'a home console that you can take with you on the go'"
+    },
+ {
+       "PRNM":"Nintendo Switch Lite",
+       "GCNM":"NintendoSwitchLiteLogo",
+       "COST":"280.00",
+       "MSRP":"259.99",
+       "QTYH":"30",
+       "QTYB":"15",
+       "DESC":"The Nintendo Switch Lite is designed specifically for handheld play so you can jump into your favorite games wherever you happen to be."
+    },
+ {
+       "PRNM":"Zelda Breath of the Wild 2",
+       "GCNM":"ZeldaBreathoftheWild2Logo",
+       "COST":"60.00",
+       "MSRP":"60.00",
+       "QTYH":"50",
+       "QTYB":"100",
+       "DESC":"An untitled sequel to the 2017 action-adventure game The Legend of Zelda: Breath of the Wild is in development by Nintendo. The sequel is part of The Legend of Zelda series and is currently set to be released in 2022 for the Nintendo Switch"
+    },
+ {
+       "PRNM":"Pokemon Legends: Arceus",
+       "GCNM":"PokemonLegendsArceusLogo",
+       "COST":"60.00",
+       "MSRP":"60.00",
+       "QTYH":"40",
+       "QTYB":"85",
+       "DESC":"Pokémon Legends: Arceus is an upcoming 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch"
+    },
+ {
+       "PRNM":"Super Mario 3D All-Stars",
+       "GCNM":"SuperMario3DAllStarsLogo",
+       "COST":"60.00",
+       "MSRP":"60.00",
+       "QTYH":"3",
+       "QTYB":"0",
+       "DESC":"Super Mario 3D All-Stars is a 2020 compilation of platform games for the Nintendo Switch. It commemorates the 35th anniversary of Nintendos Super Mario franchise, with high-definition ports of Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy"
+    }
+ ]
