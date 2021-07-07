@@ -1,5 +1,7 @@
 [
     {
+       "ID":"101",
+       "BID":"1",
        "PRNM":"Xbox Series X",
        "GCNM":"XboxSeriesXLogo",
        "COST":"500.00",
@@ -10,6 +12,8 @@
        "BRAND":"Xbox"
     },
     {
+       "ID":"102",
+       "BID":"1",
        "PRNM":"Xbox Series S",
        "GCNM":"XboxSeriesSLogo",
        "COST":"460.00",
@@ -20,6 +24,8 @@
        "BRAND":"Xbox"
     },
  {
+       "ID":"103",
+       "BID":"1",
        "PRNM":"Halo Infinite",
        "GCNM":"HaloInfiniteLogo",
        "COST":"60.00",
@@ -30,6 +36,8 @@
        "BRAND":"Xbox"
     },
  {
+       "ID":"104",
+       "BID":"1",
        "PRNM":"Forza Horizon 5",
        "GCNM":"ForzaHorizon5Logo",
        "COST":"60.00",
@@ -40,6 +48,8 @@
        "BRAND":"Xbox"
     },
  {
+       "ID":"105",
+       "BID":"1",
        "PRNM":"Fable",
        "GCNM":"FableLogo",
        "COST":"60.00",
@@ -50,6 +60,8 @@
        "BRAND":"Xbox"
     },
  {
+       "ID":"201",
+       "BID":"2",
        "PRNM":"PS5",
        "GCNM":"PS5Logo",
        "COST":"450.00",
@@ -60,6 +72,8 @@
        "BRAND":"PlayStation"
     },
  {
+       "ID":"202",
+       "BID":"2",
        "PRNM":"PS5 Digital",
        "GCNM":"PS5DigitalLogo",
        "COST":"450.00",
@@ -70,6 +84,8 @@
        "BRAND":"PlayStation"
     },
  {
+       "ID":"203",
+       "BID":"2",
        "PRNM":"God of War Ragnarok",
        "GCNM":"GodOfWarRagnarokLogo",
        "COST":"70.00",
@@ -80,6 +96,8 @@
        "BRAND":"PlayStation"
     },
  {
+       "ID":"204",
+       "BID":"2",
        "PRNM":"Horizon Forbidden West",
        "GCNM":"HorizonForbiddenWestLogo",
        "COST":"70.00",
@@ -90,6 +108,8 @@
        "BRAND":"PlayStation"
     },
  {
+       "ID":"205",
+       "BID":"2",
        "PRNM":"Ratchet & Clank: Rift Apart",
        "GCNM":"RatchetandClankRiftApartLogo",
        "COST":"70.00",
@@ -100,6 +120,8 @@
        "BRAND":"PlayStation"
     },
  {
+       "ID":"301",
+       "BID":"3",
        "PRNM":"Nintendo Switch",
        "GCNM":"NintendoSwitchLogo",
        "COST":"400.00",
@@ -110,6 +132,8 @@
        "BRAND":"Nintendo"
     },
  {
+       "ID":"302",
+       "BID":"3",
        "PRNM":"Nintendo Switch Lite",
        "GCNM":"NintendoSwitchLiteLogo",
        "COST":"280.00",
@@ -120,6 +144,8 @@
        "BRAND":"Nintendo"
     },
  {
+       "ID":"303",
+       "BID":"3",
        "PRNM":"Zelda Breath of the Wild 2",
        "GCNM":"ZeldaBreathoftheWild2Logo",
        "COST":"60.00",
@@ -130,6 +156,8 @@
        "BRAND":"Nintendo"
     },
  {
+       "ID":"304",
+       "BID":"3",
        "PRNM":"Pokemon Legends: Arceus",
        "GCNM":"PokemonLegendsArceusLogo",
        "COST":"60.00",
@@ -140,6 +168,8 @@
        "BRAND":"Nintendo"
     },
  {
+       "ID":"305",
+       "BID":"3",
        "PRNM":"Super Mario 3D All-Stars",
        "GCNM":"SuperMario3DAllStarsLogo",
        "COST":"60.00",
