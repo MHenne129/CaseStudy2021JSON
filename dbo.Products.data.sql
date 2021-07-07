@@ -6,7 +6,8 @@
        "MSRP":"599.99",
        "QTYH":"5",
        "QTYB":"50",
-       "DESC":"The next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X"
+       "DESC":"The next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X",
+       "BRAND":"Xbox"
     },
     {
        "PRNM":"Xbox Series S",
@@ -15,7 +16,8 @@
        "MSRP":"379.99",
        "QTYH":"20",
        "QTYB":"15",
-       "DESC":"Experience next generation gaming at an afforable price on the Xbox Series S"
+       "DESC":"Experience next generation gaming at an afforable price on the Xbox Series S",
+       "BRAND":"Xbox"
     },
  {
        "PRNM":"Halo Infinite",
@@ -24,7 +26,8 @@
        "MSRP":"60.00",
        "QTYH":"50",
        "QTYB":"150",
-       "DESC":"Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Windows, Xbox One, and Xbox Series X and Series S. The sixth main entry of the Halo series, and the sixteenth Halo game overall, it picks up the story of the Master Chief, following Guardians"
+       "DESC":"Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Windows, Xbox One, and Xbox Series X and Series S. The sixth main entry of the Halo series, and the sixteenth Halo game overall, it picks up the story of the Master Chief, following Guardians",
+       "BRAND":"Xbox"
     },
  {
        "PRNM":"Forza Horizon 5",
@@ -33,7 +36,8 @@
        "MSRP":"60.00",
        "QTYH":"50",
        "QTYB":"100",
-       "DESC":"Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico"
+       "DESC":"Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico",
+       "BRAND":"Xbox"
     },
  {
        "PRNM":"Fable",
@@ -42,7 +46,8 @@
        "MSRP":"60.00",
        "QTYH":"50",
        "QTYB":"80",
-       "DESC":"Fable returns in the reboot of the classic Xbox franchise coming exclusively to Xbox and PC"
+       "DESC":"Fable returns in the reboot of the classic Xbox franchise coming exclusively to Xbox and PC",
+       "BRAND":"Xbox"
     },
  {
        "PRNM":"PS5",
@@ -51,7 +56,8 @@
        "MSRP":"629.99",
        "QTYH":"3",
        "QTYB":"20",
-       "DESC":"The next generation of Sony PlayStatio is here on the PS5"
+       "DESC":"The next generation of Sony PlayStatio is here on the PS5",
+       "BRAND":"PlayStation"
     },
  {
        "PRNM":"PS5 Digital",
@@ -60,7 +66,8 @@
        "MSRP":"499.99",
        "QTYH":"10",
        "QTYB":"22",
-       "DESC":"Play next gen PS5 games at a lower cost with the digital only PS5 console"
+       "DESC":"Play next gen PS5 games at a lower cost with the digital only PS5 console",
+       "BRAND":"PlayStation"
     },
  {
        "PRNM":"God of War Ragnarok",
@@ -69,7 +76,8 @@
        "MSRP":"70.00",
        "QTYH":"50",
        "QTYB":"100",
-       "DESC":"The untitled God of War sequel is an action-adventure game currently in development by Santa Monica Studio and will be published by Sony Interactive Entertainment. It is scheduled to be released in 2022 for the PlayStation 4 and PlayStation 5"
+       "DESC":"The untitled God of War sequel is an action-adventure game currently in development by Santa Monica Studio and will be published by Sony Interactive Entertainment. It is scheduled to be released in 2022 for the PlayStation 4 and PlayStat0ion 5",
+       "BRAND":"PlayStation"
     },
  {
        "PRNM":"Horizon Forbidden West",
@@ -78,7 +86,8 @@
        "MSRP":"70.00",
        "QTYH":"40",
        "QTYB":"80",
-       "DESC":"Horizon Forbidden West is an upcoming action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It is set to be released in 2021 for the PlayStation 4 and PlayStation 5. A sequel to Horizon Zero Dawn, it features an open world in a post-apocalyptic western United States"
+       "DESC":"Horizon Forbidden West is an upcoming action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It is set to be released in 2021 for the PlayStation 4 and PlayStation 5. A sequel to Horizon Zero Dawn, it features an open world in a post-apocalyptic western United States",
+       "BRAND":"PlayStation"
     },
  {
        "PRNM":"Ratchet & Clank: Rift Apart",
@@ -87,7 +96,8 @@
        "MSRP":"70.00",
        "QTYH":"20",
        "QTYB":"40",
-       "DESC":"Ratchet & Clank: Rift Apart is a 2021 third-person shooter platform game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 5. It is the sixteenth installment in the Ratchet & Clank series. The game takes place following the events of Ratchet & Clank: Into the Nexus."
+       "DESC":"Ratchet & Clank: Rift Apart is a 2021 third-person shooter platform game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 5. It is the sixteenth installment in the Ratchet & Clank series. The game takes place following the events of Ratchet & Clank: Into the Nexus.",
+       "BRAND":"PlayStation"
     },
  {
        "PRNM":"Nintendo Switch",
@@ -96,7 +106,8 @@
        "MSRP":"399.99",
        "QTYH":"20",
        "QTYB":"60",
-       "DESC":"The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as 'a home console that you can take with you on the go'"
+       "DESC":"The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as 'a home console that you can take with you on the go'",
+       "BRAND":"Nintendo"
     },
  {
        "PRNM":"Nintendo Switch Lite",
@@ -105,7 +116,8 @@
        "MSRP":"259.99",
        "QTYH":"30",
        "QTYB":"15",
-       "DESC":"The Nintendo Switch Lite is designed specifically for handheld play so you can jump into your favorite games wherever you happen to be."
+       "DESC":"The Nintendo Switch Lite is designed specifically for handheld play so you can jump into your favorite games wherever you happen to be.",
+       "BRAND":"Nintendo"
     },
  {
        "PRNM":"Zelda Breath of the Wild 2",
@@ -114,7 +126,8 @@
        "MSRP":"60.00",
        "QTYH":"50",
        "QTYB":"100",
-       "DESC":"An untitled sequel to the 2017 action-adventure game The Legend of Zelda: Breath of the Wild is in development by Nintendo. The sequel is part of The Legend of Zelda series and is currently set to be released in 2022 for the Nintendo Switch"
+       "DESC":"An untitled sequel to the 2017 action-adventure game The Legend of Zelda: Breath of the Wild is in development by Nintendo. The sequel is part of The Legend of Zelda series and is currently set to be released in 2022 for the Nintendo Switch",
+       "BRAND":"Nintendo"
     },
  {
        "PRNM":"Pokemon Legends: Arceus",
@@ -123,7 +136,8 @@
        "MSRP":"60.00",
        "QTYH":"40",
        "QTYB":"85",
-       "DESC":"Pokémon Legends: Arceus is an upcoming 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch"
+       "DESC":"Pokémon Legends: Arceus is an upcoming 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch",
+       "BRAND":"Nintendo"
     },
  {
        "PRNM":"Super Mario 3D All-Stars",
@@ -132,6 +146,7 @@
        "MSRP":"60.00",
        "QTYH":"3",
        "QTYB":"0",
-       "DESC":"Super Mario 3D All-Stars is a 2020 compilation of platform games for the Nintendo Switch. It commemorates the 35th anniversary of Nintendos Super Mario franchise, with high-definition ports of Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy"
+       "DESC":"Super Mario 3D All-Stars is a 2020 compilation of platform games for the Nintendo Switch. It commemorates the 35th anniversary of Nintendos Super Mario franchise, with high-definition ports of Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy",
+       "BRAND":"Nintendo"
     }
  ]
