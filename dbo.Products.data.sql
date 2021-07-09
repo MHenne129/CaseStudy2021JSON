@@ -1,7 +1,7 @@
 [
    {
       "CAL":"Xbox Series X",
-      "FAT":"41",
+      "FAT":"XboxSeriesXLogo",
       "CHOL":"125",
       "SALT":"1480",
       "CARB":"51",
@@ -12,7 +12,7 @@
    },
    {
       "CAL":"Xbox Series S",
-      "FAT":"26",
+      "FAT":"XboxSeriesSLogo",
       "CHOL":"125",
       "SALT":"1750",
       "CARB":"50",
@@ -23,7 +23,7 @@
    },
    {
       "CAL":"Halo Infinite",
-      "FAT":"40",
+      "FAT":"HaloInfiniteLogo",
       "CHOL":"110",
       "SALT":"1620",
       "CARB":"67",
@@ -34,7 +34,7 @@
    },
    {
       "CAL":"Forza Horizon 5",
-      "FAT":"17",
+      "FAT":"ForzaHorizon5Logo",
       "CHOL":"40",
       "SALT":"650",
       "CARB":"40",
@@ -45,7 +45,7 @@
    },
    {
       "CAL":"Fable",
-      "FAT":"17",
+      "FAT":"FableLogo",
       "CHOL":"40",
       "SALT":"850",
       "CARB":"41",
@@ -56,7 +56,7 @@
    },
    {
       "CAL":"PS5",
-      "FAT":"21",
+      "FAT":"PS5Logo",
       "CHOL":"55",
       "SALT":"1120",
       "CARB":"41",
@@ -67,7 +67,7 @@
    },
    {
       "CAL":"PS5 Digital",
-      "FAT":"25",
+      "FAT":"PS5DigitalLogo",
       "CHOL":"70",
       "SALT":"1120",
       "CARB":"43",
@@ -78,7 +78,7 @@
    },
    {
       "CAL":"God of War Ragnarok",
-      "FAT":"21",
+      "FAT":"GodOfWarRagnarokLogo",
       "CHOL":"65",
       "SALT":"800",
       "CARB":"46",
@@ -89,7 +89,7 @@
    },
    {
       "CAL":"Horizon Forbidden West",
-      "FAT":"19",
+      "FAT":"HorizonForbiddenWestLogo",
       "CHOL":"40",
       "SALT":"590",
       "CARB":"39",
@@ -100,7 +100,7 @@
    },
    {
       "CAL":"Ratchet & Clank: Rift Apart",
-      "FAT":"26",
+      "FAT":"RachetAndClankRiftApartLogo",
       "CHOL":"70",
       "SALT":"980",
       "CARB":"44",
@@ -111,7 +111,7 @@
    },
    {
       "CAL":"Nintendo Switch",
-      "FAT":"34",
+      "FAT":"NintendoSwitchLogo",
       "CHOL":"100",
       "SALT":"1450",
       "CARB":"58",
@@ -122,7 +122,7 @@
    },
    {
       "CAL":"Nintendo Switch Lite",
-      "FAT":"19",
+      "FAT":"NintendoSwitchLiteLogo",
       "CHOL":"115",
       "SALT":"1570",
       "CARB":"41",
@@ -133,7 +133,7 @@
    },
    {
       "CAL":"Zelda Breath of the Wild 2",
-      "FAT":"34",
+      "FAT":"ZeldaBreathOfTheWildLogo",
       "CHOL":"85",
       "SALT":"1250",
       "CARB":"59",
@@ -144,7 +144,7 @@
    },
    {
       "CAL":"Pokemon Legends: Arceus",
-      "FAT":"19",
+      "FAT":"PokemonLegendsArcuesLogo",
       "CHOL":"100",
       "SALT":"1370",
       "CARB":"41",
@@ -155,7 +155,7 @@
    },
    {
       "CAL":"Super Mario 3D All-Stars",
-      "FAT":"25",
+      "FAT":"SuperMario3DAllStarsLogo",
       "CHOL":"65",
       "SALT":"1160",
       "CARB":"64",
