@@ -5,7 +5,7 @@
       "CHOL":"500.00",
       "SALT":"599.99",
       "CARB":"5",
-      "FBR":"4",
+      "FBR":"50",
       "ITEM":"Bacon Clubhouse Burger 9.7 oz (274 g)",
       "PRO":"40",
       "CATEGORY":"BURGERSANDWICH"
@@ -16,7 +16,7 @@
       "CHOL":"460.00",
       "SALT":"379.99",
       "CARB":"20",
-      "FBR":"3",
+      "FBR":"15",
       "ITEM":"Premium Grilled Chicken Bacon Clubhouse Sandwich 10 oz (285 g)",
       "PRO":"45",
       "CATEGORY":"BURGERSANDWICH"
@@ -27,7 +27,7 @@
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
-      "FBR":"5",
+      "FBR":"150",
       "ITEM":"Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich 10.1 oz (287 g)",
       "PRO":"40",
       "CATEGORY":"BURGERSANDWICH"
@@ -38,7 +38,7 @@
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
-      "FBR":"2",
+      "FBR":"100",
       "ITEM":"McChicken ® 5.1 oz (144 g)",
       "PRO":"14",
       "CATEGORY":"BURGERSANDWICH"
@@ -49,7 +49,7 @@
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
-      "FBR":"2",
+      "FBR":"80",
       "ITEM":"Buffalo Ranch McChicken 5.2 oz (148 g)",
       "PRO":"14",
       "CATEGORY":"BURGERSANDWICH"
@@ -60,7 +60,7 @@
       "CHOL":"450.00",
       "SALT":"629.99",
       "CARB":"3",
-      "FBR":"2",
+      "FBR":"20",
       "ITEM":"Bacon Buffalo Ranch McChicken 5.7 oz (162 g)",
       "PRO":"20",
       "CATEGORY":"BURGERSANDWICH"
@@ -71,7 +71,7 @@
       "CHOL":"450.00",
       "SALT":"499.99",
       "CARB":"10",
-      "FBR":"2",
+      "FBR":"22",
       "ITEM":"Bacon Cheddar McChicken 6.1 oz (172 g)",
       "PRO":"22",
       "CATEGORY":"BURGERSANDWICH"
@@ -82,7 +82,7 @@
       "CHOL":"70.00",
       "SALT":"70.00",
       "CARB":"50",
-      "FBR":"2",
+      "FBR":"100",
       "ITEM":"Southern Style Buttermilk Crispy Chicken Sandwich 5.7 oz (162 g)",
       "PRO":"25",
       "CATEGORY":"BURGERSANDWICH"
@@ -93,7 +93,7 @@
       "CHOL":"70.00",
       "SALT":"70.00",
       "CARB":"40",
-      "FBR":"2",
+      "FBR":"80",
       "ITEM":"Filet-O-Fish 5 oz (142 g)",
       "PRO":"15",
       "CATEGORY":"BURGERSANDWICH"
@@ -104,7 +104,7 @@
       "CHOL":"70.00",
       "SALT":"70.00",
       "CARB":"20",
-      "FBR":"3",
+      "FBR":"40",
       "ITEM":"McRib ® 7.3 oz (208 g)",
       "PRO":"22",
       "CATEGORY":"BURGERSANDWICH"
@@ -115,7 +115,7 @@
       "CHOL":"400.00",
       "SALT":"399.99",
       "CARB":"20",
-      "FBR":"4",
+      "FBR":"60",
       "ITEM":"Premium McWrap Chicken & Bacon (Buttermilk Crispy) 11.1 oz (314 g)",
       "PRO":"36",
       "CATEGORY":"BURGERSANDWICH"
@@ -126,7 +126,7 @@
       "CHOL":"280.00",
       "SALT":"259.99",
       "CARB":"30",
-      "FBR":"3",
+      "FBR":"15",
       "ITEM":"Premium McWrap Chicken & Bacon (Grilled) 11 oz (312 g)",
       "PRO":"41",
       "CATEGORY":"BURGERSANDWICH"
@@ -137,7 +137,7 @@
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
-      "FBR":"4",
+      "FBR":"100",
       "ITEM":"Premium McWrap Chicken & Ranch (Buttermilk Crispy) 10.9 oz (309 g)",
       "PRO":"31",
       "CATEGORY":"BURGERSANDWICH"
@@ -148,7 +148,7 @@
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"40",
-      "FBR":"3",
+      "FBR":"90",
       "ITEM":"Premium McWrap Chicken & Ranch (Grilled) 10.8 oz (306 g)",
       "PRO":"35",
       "CATEGORY":"BURGERSANDWICH"
@@ -159,7 +159,7 @@
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"8",
-      "FBR":"4",
+      "FBR":"0",
       "ITEM":"Premium McWrap Chicken Sweet Chili (Buttermilk Crispy) 10.6 oz (301 g)",
       "PRO":"27",
       "CATEGORY":"BURGERSANDWICH"
