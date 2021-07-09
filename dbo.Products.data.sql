@@ -6,7 +6,7 @@
       "SALT":"599.99",
       "CARB":"5",
       "FBR":"50",
-      "ITEM":"Bacon Clubhouse Burger 9.7 oz (274 g)",
+      "ITEM":"he next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X",
       "PRO":"40",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -17,7 +17,7 @@
       "SALT":"379.99",
       "CARB":"20",
       "FBR":"15",
-      "ITEM":"Premium Grilled Chicken Bacon Clubhouse Sandwich 10 oz (285 g)",
+      "ITEM":"Experience next generation gaming at an afforable price on the Xbox Series S",
       "PRO":"45",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -28,7 +28,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"150",
-      "ITEM":"Premium Buttermilk Crispy Chicken Bacon Clubhouse Sandwich 10.1 oz (287 g)",
+      "ITEM":"Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Windows, Xbox One, and Xbox Series X and Series S. The sixth main entry of the Halo series, and the sixteenth Halo game overall, it picks up the story of the Master Chief, following Guardians",
       "PRO":"40",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -39,7 +39,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"100",
-      "ITEM":"McChicken ® 5.1 oz (144 g)",
+      "ITEM":"Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico",
       "PRO":"14",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -50,7 +50,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"80",
-      "ITEM":"Buffalo Ranch McChicken 5.2 oz (148 g)",
+      "ITEM":"Fable returns in the reboot of the classic Xbox franchise coming exclusively to Xbox and PC",
       "PRO":"14",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -61,7 +61,7 @@
       "SALT":"629.99",
       "CARB":"3",
       "FBR":"20",
-      "ITEM":"Bacon Buffalo Ranch McChicken 5.7 oz (162 g)",
+      "ITEM":"The next generation of Sony PlayStatio is here on the PS5",
       "PRO":"20",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -72,7 +72,7 @@
       "SALT":"499.99",
       "CARB":"10",
       "FBR":"22",
-      "ITEM":"Bacon Cheddar McChicken 6.1 oz (172 g)",
+      "ITEM":"Play next gen PS5 games at a lower cost with the digital only PS5 console",
       "PRO":"22",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -83,7 +83,7 @@
       "SALT":"70.00",
       "CARB":"50",
       "FBR":"100",
-      "ITEM":"Southern Style Buttermilk Crispy Chicken Sandwich 5.7 oz (162 g)",
+      "ITEM":"The untitled God of War sequel is an action-adventure game currently in development by Santa Monica Studio and will be published by Sony Interactive Entertainment. It is scheduled to be released in 2022 for the PlayStation 4 and PlayStat0ion 5",
       "PRO":"25",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -94,7 +94,7 @@
       "SALT":"70.00",
       "CARB":"40",
       "FBR":"80",
-      "ITEM":"Filet-O-Fish 5 oz (142 g)",
+      "ITEM":"Horizon Forbidden West is an upcoming action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It is set to be released in 2021 for the PlayStation 4 and PlayStation 5. A sequel to Horizon Zero Dawn, it features an open world in a post-apocalyptic western United States",
       "PRO":"15",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -105,7 +105,7 @@
       "SALT":"70.00",
       "CARB":"20",
       "FBR":"40",
-      "ITEM":"McRib ® 7.3 oz (208 g)",
+      "ITEM":"Ratchet & Clank: Rift Apart is a 2021 third-person shooter platform game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 5. It is the sixteenth installment in the Ratchet & Clank series. The game takes place following the events of Ratchet & Clank: Into the Nexus.",
       "PRO":"22",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -116,7 +116,7 @@
       "SALT":"399.99",
       "CARB":"20",
       "FBR":"60",
-      "ITEM":"Premium McWrap Chicken & Bacon (Buttermilk Crispy) 11.1 oz (314 g)",
+      "ITEM":"The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as 'a home console that you can take with you on the go'",
       "PRO":"36",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -127,7 +127,7 @@
       "SALT":"259.99",
       "CARB":"30",
       "FBR":"15",
-      "ITEM":"Premium McWrap Chicken & Bacon (Grilled) 11 oz (312 g)",
+      "ITEM":"The Nintendo Switch Lite is designed specifically for handheld play so you can jump into your favorite games wherever you happen to be.",
       "PRO":"41",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -138,7 +138,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"100",
-      "ITEM":"Premium McWrap Chicken & Ranch (Buttermilk Crispy) 10.9 oz (309 g)",
+      "ITEM":"An untitled sequel to the 2017 action-adventure game The Legend of Zelda: Breath of the Wild is in development by Nintendo. The sequel is part of The Legend of Zelda series and is currently set to be released in 2022 for the Nintendo Switch",
       "PRO":"31",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -149,7 +149,7 @@
       "SALT":"60.00",
       "CARB":"40",
       "FBR":"90",
-      "ITEM":"Premium McWrap Chicken & Ranch (Grilled) 10.8 oz (306 g)",
+      "ITEM":"Pokémon Legends: Arceus is an upcoming 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch",
       "PRO":"35",
       "CATEGORY":"BURGERSANDWICH"
    },
@@ -160,7 +160,7 @@
       "SALT":"60.00",
       "CARB":"8",
       "FBR":"0",
-      "ITEM":"Premium McWrap Chicken Sweet Chili (Buttermilk Crispy) 10.6 oz (301 g)",
+      "ITEM":"Super Mario 3D All-Stars is a 2020 compilation of platform games for the Nintendo Switch. It commemorates the 35th anniversary of Nintendos Super Mario franchise, with high-definition ports of Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy",
       "PRO":"27",
       "CATEGORY":"BURGERSANDWICH"
    }
