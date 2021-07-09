@@ -6,7 +6,7 @@
       "SALT":"599.99",
       "CARB":"5",
       "FBR":"50",
-      "ITEM":"he next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X",
+      "ITEM":"temp",
       "PRO":"40",
       "CATEGORY":"Microsoft"
    },
@@ -17,7 +17,7 @@
       "SALT":"379.99",
       "CARB":"20",
       "FBR":"15",
-      "ITEM":"Experience next generation gaming at an afforable price on the Xbox Series S",
+      "ITEM":"temp",
       "PRO":"45",
       "CATEGORY":"Microsoft"
    },
@@ -28,7 +28,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"150",
-      "ITEM":"Halo Infinite is an upcoming first-person shooter game developed by 343 Industries and published by Xbox Game Studios for Windows, Xbox One, and Xbox Series X and Series S. The sixth main entry of the Halo series, and the sixteenth Halo game overall, it picks up the story of the Master Chief, following Guardians",
+      "ITEM":"temp",
       "PRO":"40",
       "CATEGORY":"Microsoft"
    },
@@ -39,7 +39,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"100",
-      "ITEM":"Forza Horizon 5 is an upcoming racing game developed by Playground Games and published by Xbox Game Studios. It will be the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico",
+      "ITEM":"temp",
       "PRO":"14",
       "CATEGORY":"Microsoft"
    },
@@ -50,7 +50,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"80",
-      "ITEM":"Fable returns in the reboot of the classic Xbox franchise coming exclusively to Xbox and PC",
+      "ITEM":"temp",
       "PRO":"14",
       "CATEGORY":"Microsoft"
    },
@@ -61,7 +61,7 @@
       "SALT":"629.99",
       "CARB":"3",
       "FBR":"20",
-      "ITEM":"The next generation of Sony PlayStatio is here on the PS5",
+      "ITEM":"temp",
       "PRO":"20",
       "CATEGORY":"Sony"
    },
@@ -72,7 +72,7 @@
       "SALT":"499.99",
       "CARB":"10",
       "FBR":"22",
-      "ITEM":"Play next gen PS5 games at a lower cost with the digital only PS5 console",
+      "ITEM":"temp",
       "PRO":"22",
       "CATEGORY":"Sony"
    },
@@ -83,7 +83,7 @@
       "SALT":"70.00",
       "CARB":"50",
       "FBR":"100",
-      "ITEM":"The untitled God of War sequel is an action-adventure game currently in development by Santa Monica Studio and will be published by Sony Interactive Entertainment. It is scheduled to be released in 2022 for the PlayStation 4 and PlayStat0ion 5",
+      "ITEM":"temp",
       "PRO":"25",
       "CATEGORY":"Sony"
    },
@@ -94,7 +94,7 @@
       "SALT":"70.00",
       "CARB":"40",
       "FBR":"80",
-      "ITEM":"Horizon Forbidden West is an upcoming action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. It is set to be released in 2021 for the PlayStation 4 and PlayStation 5. A sequel to Horizon Zero Dawn, it features an open world in a post-apocalyptic western United States",
+      "ITEM":"temp",
       "PRO":"15",
       "CATEGORY":"Sony"
    },
@@ -105,7 +105,7 @@
       "SALT":"70.00",
       "CARB":"20",
       "FBR":"40",
-      "ITEM":"Ratchet & Clank: Rift Apart is a 2021 third-person shooter platform game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 5. It is the sixteenth installment in the Ratchet & Clank series. The game takes place following the events of Ratchet & Clank: Into the Nexus.",
+      "ITEM":"temp",
       "PRO":"22",
       "CATEGORY":"Sony"
    },
@@ -116,7 +116,7 @@
       "SALT":"399.99",
       "CARB":"20",
       "FBR":"60",
-      "ITEM":"The Nintendo Switch is a hybrid video game console, consisting of a console unit, a dock, and two Joy-Con controllers. Although it is a hybrid console, Nintendo classifies it as 'a home console that you can take with you on the go'",
+      "ITEM":"temp",
       "PRO":"36",
       "CATEGORY":"Nintendo"
    },
@@ -127,7 +127,7 @@
       "SALT":"259.99",
       "CARB":"30",
       "FBR":"15",
-      "ITEM":"The Nintendo Switch Lite is designed specifically for handheld play so you can jump into your favorite games wherever you happen to be.",
+      "ITEM":"temp",
       "PRO":"41",
       "CATEGORY":"Nintendo"
    },
@@ -138,7 +138,7 @@
       "SALT":"60.00",
       "CARB":"50",
       "FBR":"100",
-      "ITEM":"An untitled sequel to the 2017 action-adventure game The Legend of Zelda: Breath of the Wild is in development by Nintendo. The sequel is part of The Legend of Zelda series and is currently set to be released in 2022 for the Nintendo Switch",
+      "ITEM":"temp",
       "PRO":"31",
       "CATEGORY":"Nintendo"
    },
@@ -149,7 +149,7 @@
       "SALT":"60.00",
       "CARB":"40",
       "FBR":"90",
-      "ITEM":"Pokémon Legends: Arceus is an upcoming 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch",
+      "ITEM":"temp",
       "PRO":"35",
       "CATEGORY":"Nintendo"
    },
@@ -160,7 +160,7 @@
       "SALT":"60.00",
       "CARB":"8",
       "FBR":"0",
-      "ITEM":"Super Mario 3D All-Stars is a 2020 compilation of platform games for the Nintendo Switch. It commemorates the 35th anniversary of Nintendos Super Mario franchise, with high-definition ports of Super Mario 64, Super Mario Sunshine, and Super Mario Galaxy",
+      "ITEM":"temp",
       "PRO":"27",
       "CATEGORY":"Nintendo"
    }
