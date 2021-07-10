@@ -2,7 +2,7 @@
    {
       "ID":"101",
       "PNAME":"Xbox Series X",
-      "FAT":"XboxSeriesXLogo",
+      "GNAME":"XboxSeriesXLogo",
       "CHOL":"500.00",
       "SALT":"599.99",
       "CARB":"5",
@@ -14,7 +14,7 @@
    {
       "ID":"102",
       "PNAME":"Xbox Series S",
-      "FAT":"XboxSeriesSLogo",
+      "GNAME":"XboxSeriesSLogo",
       "CHOL":"460.00",
       "SALT":"379.99",
       "CARB":"20",
@@ -26,7 +26,7 @@
    {
       "ID":"103",
       "PNAME":"Halo Infinite",
-      "FAT":"HaloInfiniteLogo",
+      "GNAME":"HaloInfiniteLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
@@ -38,7 +38,7 @@
    {
       "ID":"104",
       "PNAME":"Forza Horizon 5",
-      "FAT":"ForzaHorizon5Logo",
+      "GNAME":"ForzaHorizon5Logo",
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
@@ -50,7 +50,7 @@
    {
       "ID":"105",
       "PNAME":"Fable",
-      "FAT":"FableLogo",
+      "GNAME":"FableLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
@@ -62,7 +62,7 @@
    {
       "ID":"201",
       "PNAME":"PS5",
-      "FAT":"PS5Logo",
+      "GNAME":"PS5Logo",
       "CHOL":"450.00",
       "SALT":"629.99",
       "CARB":"3",
@@ -74,7 +74,7 @@
    {
       "ID":"202",
       "PNAME":"PS5 Digital",
-      "FAT":"PS5DigitalLogo",
+      "GNAME":"PS5DigitalLogo",
       "CHOL":"450.00",
       "SALT":"499.99",
       "CARB":"10",
@@ -86,7 +86,7 @@
    {
       "ID":"203",
       "PNAME":"God of War Ragnarok",
-      "FAT":"GodOfWarRagnarokLogo",
+      "GNAME":"GodOfWarRagnarokLogo",
       "CHOL":"70.00",
       "SALT":"70.00",
       "CARB":"50",
@@ -98,7 +98,7 @@
    {
       "ID":"204",
       "PNAME":"Horizon Forbidden West",
-      "FAT":"HorizonForbiddenWestLogo",
+      "GNAME":"HorizonForbiddenWestLogo",
       "CHOL":"70.00",
       "SALT":"70.00",
       "CARB":"40",
@@ -110,7 +110,7 @@
    {
       "ID":"205",
       "PNAME":"Ratchet & Clank: Rift Apart",
-      "FAT":"RachetAndClankRiftApartLogo",
+      "GNAME":"RachetAndClankRiftApartLogo",
       "CHOL":"70.00",
       "SALT":"70.00",
       "CARB":"20",
@@ -122,7 +122,7 @@
    {
       "ID":"301",
       "PNAME":"Nintendo Switch",
-      "FAT":"NintendoSwitchLogo",
+      "GNAME":"NintendoSwitchLogo",
       "CHOL":"400.00",
       "SALT":"399.99",
       "CARB":"20",
@@ -134,7 +134,7 @@
    {
       "ID":"302",
       "PNAME":"Nintendo Switch Lite",
-      "FAT":"NintendoSwitchLiteLogo",
+      "GNAME":"NintendoSwitchLiteLogo",
       "CHOL":"280.00",
       "SALT":"259.99",
       "CARB":"30",
@@ -146,7 +146,7 @@
    {
       "ID":"303",
       "PNAME":"Zelda Breath of the Wild 2",
-      "FAT":"ZeldaBreathOfTheWildLogo",
+      "GNAME":"ZeldaBreathOfTheWildLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"50",
@@ -158,7 +158,7 @@
    {
       "ID":"304",
       "PNAME":"Pokemon Legends: Arceus",
-      "FAT":"PokemonLegendsArcuesLogo",
+      "GNAME":"PokemonLegendsArcuesLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"40",
@@ -170,7 +170,7 @@
    {
       "ID":"305",
       "PNAME":"Super Mario 3D All-Stars",
-      "FAT":"SuperMario3DAllStarsLogo",
+      "GNAME":"SuperMario3DAllStarsLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
       "CARB":"8",
