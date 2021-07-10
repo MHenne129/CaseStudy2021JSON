@@ -146,7 +146,7 @@
    {
       "ID":"303",
       "PNAME":"Zelda Breath of the Wild 2",
-      "GNAME":"ZeldaBreathOfTheWildLogo",
+      "GNAME":"ZeldaBreathOfTheWildLogo.png",
       "COST":"60.00",
       "MSRP":"60.00",
       "QTYHAND":"50",
