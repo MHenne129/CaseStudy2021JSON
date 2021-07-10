@@ -2,7 +2,7 @@
    {
       "ID":"101",
       "PNAME":"Xbox Series X",
-      "GNAME":"XboxSeriesXLogo.jpeg",
+      "GNAME":"XboxSeriesXLogo.png",
       "COST":"500.00",
       "MSRP":"599.99",
       "QTYHAND":"5",
@@ -14,7 +14,7 @@
    {
       "ID":"102",
       "PNAME":"Xbox Series S",
-      "GNAME":"XboxSeriesSLogo",
+      "GNAME":"XboxSeriesSLogo.jpg",
       "COST":"460.00",
       "MSRP":"379.99",
       "QTYHAND":"20",
@@ -26,7 +26,7 @@
    {
       "ID":"103",
       "PNAME":"Halo Infinite",
-      "GNAME":"HaloInfiniteLogo",
+      "GNAME":"HaloInfiniteLogo.jpg",
       "COST":"60.00",
       "MSRP":"60.00",
       "QTYHAND":"50",
@@ -38,7 +38,7 @@
    {
       "ID":"104",
       "PNAME":"Forza Horizon 5",
-      "GNAME":"ForzaHorizon5Logo",
+      "GNAME":"ForzaHorizon5Logo.png",
       "COST":"60.00",
       "MSRP":"60.00",
       "QTYHAND":"50",
@@ -50,7 +50,7 @@
    {
       "ID":"105",
       "PNAME":"Fable",
-      "GNAME":"FableLogo",
+      "GNAME":"FableLogo.jpg",
       "COST":"60.00",
       "MSRP":"60.00",
       "QTYHAND":"50",
