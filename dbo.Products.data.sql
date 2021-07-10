@@ -7,7 +7,7 @@
       "MSRP":"599.99",
       "QTYHAND":"5",
       "QTYBACK":"50",
-      "DESC":"he next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X",
+      "DESC":"The next generation of Xbox gaming comes now in the most power console in the world, Xbox Series X",
       "PRO":"40",
       "BRAND":"Microsoft"
    },
