@@ -1,7 +1,7 @@
 [
    {
       "ID":"101",
-      "PNAM":"Xbox Series X",
+      "CAL":"Xbox Series X",
       "FAT":"XboxSeriesXLogo",
       "CHOL":"500.00",
       "SALT":"599.99",
@@ -13,7 +13,7 @@
    },
    {
       "ID":"102",
-      "PNAM":"Xbox Series S",
+      "CAL":"Xbox Series S",
       "FAT":"XboxSeriesSLogo",
       "CHOL":"460.00",
       "SALT":"379.99",
@@ -25,7 +25,7 @@
    },
    {
       "ID":"103",
-      "PNAM":"Halo Infinite",
+      "CAL":"Halo Infinite",
       "FAT":"HaloInfiniteLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
@@ -37,7 +37,7 @@
    },
    {
       "ID":"104",
-      "PNAM":"Forza Horizon 5",
+      "CAL":"Forza Horizon 5",
       "FAT":"ForzaHorizon5Logo",
       "CHOL":"60.00",
       "SALT":"60.00",
@@ -49,7 +49,7 @@
    },
    {
       "ID":"105",
-      "PNAM":"Fable",
+      "CAL":"Fable",
       "FAT":"FableLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
@@ -61,7 +61,7 @@
    },
    {
       "ID":"201",
-      "PNAM":"PS5",
+      "CAL":"PS5",
       "FAT":"PS5Logo",
       "CHOL":"450.00",
       "SALT":"629.99",
@@ -73,7 +73,7 @@
    },
    {
       "ID":"202",
-      "PNAM":"PS5 Digital",
+      "CAL":"PS5 Digital",
       "FAT":"PS5DigitalLogo",
       "CHOL":"450.00",
       "SALT":"499.99",
@@ -85,7 +85,7 @@
    },
    {
       "ID":"203",
-      "PNAM":"God of War Ragnarok",
+      "CAL":"God of War Ragnarok",
       "FAT":"GodOfWarRagnarokLogo",
       "CHOL":"70.00",
       "SALT":"70.00",
@@ -97,7 +97,7 @@
    },
    {
       "ID":"204",
-      "PNAM":"Horizon Forbidden West",
+      "CAL":"Horizon Forbidden West",
       "FAT":"HorizonForbiddenWestLogo",
       "CHOL":"70.00",
       "SALT":"70.00",
@@ -109,7 +109,7 @@
    },
    {
       "ID":"205",
-      "PNAM":"Ratchet & Clank: Rift Apart",
+      "CAL":"Ratchet & Clank: Rift Apart",
       "FAT":"RachetAndClankRiftApartLogo",
       "CHOL":"70.00",
       "SALT":"70.00",
@@ -121,7 +121,7 @@
    },
    {
       "ID":"301",
-      "PNAM":"Nintendo Switch",
+      "CAL":"Nintendo Switch",
       "FAT":"NintendoSwitchLogo",
       "CHOL":"400.00",
       "SALT":"399.99",
@@ -133,7 +133,7 @@
    },
    {
       "ID":"302",
-      "PNAM":"Nintendo Switch Lite",
+      "CAL":"Nintendo Switch Lite",
       "FAT":"NintendoSwitchLiteLogo",
       "CHOL":"280.00",
       "SALT":"259.99",
@@ -145,7 +145,7 @@
    },
    {
       "ID":"303",
-      "PNAM":"Zelda Breath of the Wild 2",
+      "CAL":"Zelda Breath of the Wild 2",
       "FAT":"ZeldaBreathOfTheWildLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
@@ -157,7 +157,7 @@
    },
    {
       "ID":"304",
-      "PNAM":"Pokemon Legends: Arceus",
+      "CAL":"Pokemon Legends: Arceus",
       "FAT":"PokemonLegendsArcuesLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
@@ -169,7 +169,7 @@
    },
    {
       "ID":"305",
-      "PNAM":"Super Mario 3D All-Stars",
+      "CAL":"Super Mario 3D All-Stars",
       "FAT":"SuperMario3DAllStarsLogo",
       "CHOL":"60.00",
       "SALT":"60.00",
