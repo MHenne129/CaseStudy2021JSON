@@ -2,7 +2,7 @@
    {
       "ID":"101",
       "PNAME":"Xbox Series X",
-      "GNAME":"XboxSeriesXLogo",
+      "GNAME":"XboxSeriesXLogo.jpeg",
       "COST":"500.00",
       "MSRP":"599.99",
       "QTYHAND":"5",
