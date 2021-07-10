@@ -62,7 +62,7 @@
    {
       "ID":"201",
       "PNAME":"PS5",
-      "GNAME":"PS5Logo",
+      "GNAME":"PS5Logo.jpg",
       "COST":"450.00",
       "MSRP":"629.99",
       "QTYHAND":"3",
@@ -74,7 +74,7 @@
    {
       "ID":"202",
       "PNAME":"PS5 Digital",
-      "GNAME":"PS5DigitalLogo",
+      "GNAME":"PS5DigitalLogo.jpg",
       "COST":"450.00",
       "MSRP":"499.99",
       "QTYHAND":"10",
@@ -86,7 +86,7 @@
    {
       "ID":"203",
       "PNAME":"God of War Ragnarok",
-      "GNAME":"GodOfWarRagnarokLogo",
+      "GNAME":"GodOfWarRagnarokLogo.png",
       "COST":"70.00",
       "MSRP":"70.00",
       "QTYHAND":"50",
@@ -98,7 +98,7 @@
    {
       "ID":"204",
       "PNAME":"Horizon Forbidden West",
-      "GNAME":"HorizonForbiddenWestLogo",
+      "GNAME":"HorizonForbiddenWestLogo.jpg",
       "COST":"70.00",
       "MSRP":"70.00",
       "QTYHAND":"40",
@@ -110,7 +110,7 @@
    {
       "ID":"205",
       "PNAME":"Ratchet & Clank: Rift Apart",
-      "GNAME":"RachetAndClankRiftApartLogo",
+      "GNAME":"RachetAndClankRiftApartLogo.jpg",
       "COST":"70.00",
       "MSRP":"70.00",
       "QTYHAND":"20",
@@ -122,7 +122,7 @@
    {
       "ID":"301",
       "PNAME":"Nintendo Switch",
-      "GNAME":"NintendoSwitchLogo",
+      "GNAME":"NintendoSwitchLogo.jpg",
       "COST":"400.00",
       "MSRP":"399.99",
       "QTYHAND":"20",
@@ -134,7 +134,7 @@
    {
       "ID":"302",
       "PNAME":"Nintendo Switch Lite",
-      "GNAME":"NintendoSwitchLiteLogo",
+      "GNAME":"NintendoSwitchLiteLogo.jpg",
       "COST":"280.00",
       "MSRP":"259.99",
       "QTYHAND":"30",
@@ -158,7 +158,7 @@
    {
       "ID":"304",
       "PNAME":"Pokemon Legends: Arceus",
-      "GNAME":"PokemonLegendsArcuesLogo",
+      "GNAME":"PokemonLegendsArceusLogo.png",
       "COST":"60.00",
       "MSRP":"60.00",
       "QTYHAND":"40",
@@ -170,7 +170,7 @@
    {
       "ID":"305",
       "PNAME":"Super Mario 3D All-Stars",
-      "GNAME":"SuperMario3DAllStarsLogo",
+      "GNAME":"SuperMario3DAllStarsLogo.jpg",
       "COST":"60.00",
       "MSRP":"60.00",
       "QTYHAND":"8",
